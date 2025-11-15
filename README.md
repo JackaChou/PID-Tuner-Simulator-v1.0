@@ -1,4 +1,4 @@
-# PID Tuner Simulator v1.0
+# PID Tuner Simulator v0.8.4
 
 An interactive, web-based PID tuning simulator with a response optimization auto-tuner. This platform is specifically designed for educational purposes in process control, automation, and related engineering courses.
 
